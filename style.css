@@ -1,0 +1,26 @@
+#div_1{
+    background-color:lightskyblue;
+    color:white;
+    text-align: center;
+}
+#label_1{
+    color:black;
+}
+#main_div{
+    background-color: royalblue;
+    color:white;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+#div_3{
+    background-color:lightskyblue;
+    bottom:0;
+    position:fixed;
+    text-align:center ;
+    color:black ;
+    text-shadow: 5px 5px 5px lightgrey;
+    width:100%;
+}
